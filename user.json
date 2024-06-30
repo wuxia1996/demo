@@ -1,0 +1,1 @@
+[{"userId":123456,"accountName":"XXXXXXX","role":"admin","endpoint":["A","B","C"]},{"userId":1234,"accountName":"wwww","role":"user","endpoint":["resource A","resource B","resource C","A"]}]
